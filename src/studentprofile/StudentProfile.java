@@ -18,6 +18,8 @@ public class StudentProfile {
         System.out.println("Name : Kirtie Jayabalan");
         System.out.println("Student ID : S72411");
         System.out.println("Programme : Bachelor of Comp Science (Software Engineering");
+        System.out.println("Semester: Semester 1"); 
+        System.out.println("Favourite Language: Java"); 
     }
     
 }
